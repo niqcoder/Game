@@ -99,5 +99,5 @@ hero-guardian/
 - Engine: [Godot](https://godotengine.org)
 
 ## License
-
-Code license:
+The code is licensed under the MIT License (see LICENSE).
+Some assets have separate licenses, listed in Credits above. In particular, the free Ozzbit Games sprites are for personal, non-commercial use and require credit, and the button pack is CC BY-NC 4.0. Those terms apply to the assets, not to my code.
